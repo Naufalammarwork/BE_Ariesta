@@ -20,6 +20,7 @@
     "jsonwebtoken": "^8.5.1",
     "mysql": "^2.18.1",
     "nodemon": "^2.0.19",
+    "odbc": "^2.4.4",
     "paradox.js": "^0.2.0"
   },
   "bugs": {
